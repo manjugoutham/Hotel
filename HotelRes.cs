@@ -11,6 +11,9 @@ namespace HotelReservation
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to hotel reservation ");
+            int a = 5, b = 10;
+            int res = a + b;
+            Console.WriteLine(res);
         }
     }
 }
